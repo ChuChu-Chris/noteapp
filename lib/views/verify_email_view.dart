@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class VerifyEmailView extends StatefulWidget {
   const VerifyEmailView({Key? key}) : super(key: key);
 
-  @override
+  @override 
   State<VerifyEmailView> createState() => _VerifyEmailViewState();
 }
 
